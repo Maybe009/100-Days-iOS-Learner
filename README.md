@@ -1,2 +1,3 @@
-# Apple-ios-developr
-when you learn ios，your target is to be a Apple coder.
+# Apple-ios-developer
+when you learn iOS，your target is to be an Apple coder.
+## 测试
