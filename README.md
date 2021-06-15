@@ -1,4 +1,4 @@
-# 100 Days Apple-ios-developer
+# 100 Days iOS-learner
 when you learn iOS，your target is to be an Apple coder.
 ## 前期：第 1-7 天（6.15-6.20）
 你对自己的生活非常懊悔，希望通过 iOS 开发改变自己的命运，不管这个初衷看起来多么可笑，你就是开始了。
